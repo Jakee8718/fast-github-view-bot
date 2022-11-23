@@ -8,16 +8,15 @@ While using this you cant really use anything because it lags. To fix it just ex
 
 ### usage
 ![Screenshot](find.png.PNG)
-*here ^*
+
 ・Click the profile views icon and it takes you to a website
 
 ![Screenshot](Id.png.PNG)
 
-*here ^*
-
 ・ Copy the id in the top and paste it on line 16. 
 ・ To run: python main.py 
-**If you need help make an issue and ill help!**
+
+#**If you need help make an issue and ill help!**
 
 ```
 example
